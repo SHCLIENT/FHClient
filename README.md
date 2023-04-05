@@ -1,3 +1,3 @@
 # FHClient
 FHClient for Minecraft source code.
-FHClient is a Minecraft modded Client devloped by Hyperekt and SNMF.
+FHClient is a Minecraft modded Client devloped by Hyper3kt and SNMF.
